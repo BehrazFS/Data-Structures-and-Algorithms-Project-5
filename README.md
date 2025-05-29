@@ -1,4 +1,4 @@
-# Data-Structures-and-Algorithms-Project-5–Graph-Based-Social-Network-Simulation
+# Data-Structures-and-Algorithms-Project-5-Graph-Based-Social-Network-Simulation
 
 This project was developed as the final assignment for the **Data Structures and Algorithms** course at Guilan University of Technology, under the supervision of Dr. Mir Roshandel (Term 1402-1).
 The project simulates real-world interactions and relationships using various graph types and explores the application of graph traversal, suggestion systems, and shortest path algorithms.
